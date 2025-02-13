@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161895635424",
+    "project_id": "productos-test-1212c",
+    "storage_bucket": "productos-test-1212c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161895635424:android:4bb59ac9f44ac6f306f385",
+        "android_client_info": {
+          "package_name": "firebase_options.dart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIVpnbQRnlpT1PfU1mRjnqFQee-mdA_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
